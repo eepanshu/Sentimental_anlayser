@@ -1,5 +1,14 @@
-![image](https://github.com/user-attachments/assets/c5c94479-74bd-43ae-94ae-716bd1d2d8d3)
-![image](https://github.com/user-attachments/assets/edcfde76-4351-44ec-9f9d-2de978623ca8)
-![image](https://github.com/user-attachments/assets/424c87b2-032f-41cc-a012-5d27ac328e4e)
-![image](https://github.com/user-attachments/assets/48404547-712f-4cf6-9cb0-fc4d38baee26)
-![image](https://github.com/user-attachments/assets/81ef9cb7-9d87-4b02-a051-05c9e22dea9a)
+# Cloud_Attendance_System
+Cloud based student attendance system
+
+Architecture
+---------------
+
+![alt text](https://github.com/kujalk/Cloud_Attendance_System/blob/main/cloud2.PNG)
+
+Extra Notes
+---------------
+https://scripting4ever.wordpress.com/2021/03/23/different-views-based-on-users-privileges-in-django-application/
+
+
+Developer - K.Janarthanan
